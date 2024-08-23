@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Tanay Verma
+- 👀 I’m interested in data structures, algorithms, and problem-solving.
+- 🌱 I’m currently focused on improving my problem-solving skills and understanding data structures better.
+- 💞️ I’m looking to collaborate with others who share similar interests in data and algorithms.
+- 📫 You can’t connect with me on social media, but I’m open to connecting with like-minded individuals through other means.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm always eager to learn and understand new things, even if I don't know much about them at first!
