@@ -7,21 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tanay42_" target="blank"><img src="https://img.shields.io/twitter/follow/tanay42_?logo=twitter&style=for-the-badge" alt="tanay42_" /></a> </p>
 
-- 🔭 I’m currently working on **SQL optimization and web development projects**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m always learning **SQL, JavaScript frameworks, and best practices in web development**
-
-- 👯 I’m looking to collaborate on **Full-stack projects that integrate SQL databases**
-
-- 🤝 I’m seeking help with **Advanced SQL queries and scalable web development**
-
-- 👨‍💻 Check out all my projects at [GitHub: Tanay-42](https://github.com/Tanay-42)
-
-- 💬 Feel free to ask me about **Data structures, algorithms, SQL, or web development**
-
+- 🌱 I’m currently learning **SQL, JavaScript frameworks, and  web development practices**
+- 
 - 📫 You can reach me at **work.tanayrv4@gmail.com**
-
-- ⚡ Fun fact: **I enjoy unraveling complex SQL queries and building interactive apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
