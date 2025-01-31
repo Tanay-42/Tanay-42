@@ -6,7 +6,7 @@
 
 - 🔭 **Currently working on:** Myself  
 - 🌱 **Learning:** SQL, JavaScript frameworks, and web development  
-- 📫 **Contact me at:** work.tanayrv4@gmail.com  
+- 📫 **Contact me at:** tanayrv.me@gmail.com 
 
 ---
 
