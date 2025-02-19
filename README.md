@@ -38,14 +38,11 @@
 
 ---
 
-## GitHub Overview
+## Most Used Languages 📊
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanay-42&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanay-42&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-42&layout=compact&theme=github_dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="Most Used Languages"/>
 </p>
 
 ---
+🚀 Keep coding and exploring! 😃
