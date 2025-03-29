@@ -10,7 +10,7 @@
 - 📖 Currently learning Advanced SQL, JavaScript Frameworks & AI/ML  
 - 🔍 Focused on building meaningful and impactful solutions  
 - ✨ Believe in keeping things simple and effective  
-- 📩 Reach out: tanayrv.me@gmail.com  
+- 📩 Reach out: tanayverma42004@gmail.com  
 
 ---
 
