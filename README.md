@@ -6,7 +6,7 @@
 
 ## About Me
 
-- Currently working on data structures and algorithms 🧠,
+- Currently working on data structures and algorithms,
 - building practical solutions 💡, and learning new things along the way 🚀
 - Focused on making progress and staying curious.
 - 📩 Reach out: tanayverma42004@gmail.com
