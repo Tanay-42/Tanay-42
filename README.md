@@ -6,11 +6,10 @@
 
 ## About Me
 
-- 💡 Passionate about AI, ML & Full-Stack Development  
-- 📖 Currently learning Advanced SQL, JavaScript Frameworks & AI/ML  
-- 🔍 Focused on building meaningful and impactful solutions  
-- ✨ Believe in keeping things simple and effective  
-- 📩 Reach out: tanayverma42004@gmail.com  
+- Currently working on data structures and algorithms 🧠,
+- building practical solutions 💡, and learning new things along the way 🚀
+- Focused on making progress and staying curious.
+- 📩 Reach out: tanayverma42004@gmail.com
 
 ---
 
