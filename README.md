@@ -16,7 +16,7 @@
 ## Connect with Me
 
 <p align="center">
-    <a href="https://twitter.com/tanay42_">
+    <a href="https://twitter.com/tanay_arx">
         <img src="https://skillicons.dev/icons?i=twitter"/>
     </a>
     <a href="https://linkedin.com/in/tanay-verma-41482b259/">
