@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://twitter.com/tanay_arx">
-        <img src="https://skillicons.dev/icons?i=twitter"/>
+        <img src="https://skillicons.dev/icons?i=x"/>
     </a>
     <a href="https://linkedin.com/in/tanay-verma-41482b259/">
         <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -26,6 +26,7 @@
         <img src="https://skillicons.dev/icons?i=github"/>
     </a>
 </p>
+
 
 ---
 
