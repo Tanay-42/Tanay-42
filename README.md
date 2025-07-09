@@ -16,20 +16,16 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/tanay_arx">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X (Twitter)" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/tanay-verma-41482b259/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/tanay-42">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+    <a href="https://twitter.com/tanay_arx">
+        <img src="https://skillicons.dev/icons?i=twitter"/>
+    </a>
+    <a href="https://linkedin.com/in/tanay-verma-41482b259/">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+    <a href="https://github.com/tanay-42">
+        <img src="https://skillicons.dev/icons?i=github"/>
+    </a>
 </p>
-
-
 ---
 
 ## Languages & Tools
