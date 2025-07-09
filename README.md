@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://twitter.com/tanay_arx">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X (Twitter)" />
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/10443/10443840.png" alt="X" />
   </a>
-  &nbsp;
+   
   <a href="https://linkedin.com/in/tanay-verma-41482b259/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
+   
   <a href="https://github.com/tanay-42">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
