@@ -32,8 +32,16 @@
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,mysql,mongodb" /><br><br>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java" /><br><br>
+
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,mongodb" /><br><br>
+
+  <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,notion,jupyter" /><br><br>
+
+  <!-- AI / Machine Learning -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas" />
 </p>
 
