@@ -32,7 +32,9 @@
 ## Languages & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql,react,nodejs,git,linux"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,mysql,mongodb" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,notion,jupyter" /><br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas" />
 </p>
 
 ---
