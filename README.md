@@ -26,7 +26,6 @@
         <img src="https://skillicons.dev/icons?i=github"/>
     </a>
 </p>
----
 
 ## Languages & Tools
 
