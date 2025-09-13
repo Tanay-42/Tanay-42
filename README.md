@@ -30,7 +30,7 @@
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,mysql,mongodb,git,github,docker,vercel,vscode,notion,jupyter,pytorch,tensorflow,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,mysql,git,github,vercel,vscode,notion,jupyter,pytorch,numpy,pandas" />
 </p>
 
 
@@ -41,6 +41,5 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-42&layout=compact&theme=github_dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="Most Used Languages"/>
 </p>
-
 ---
 
