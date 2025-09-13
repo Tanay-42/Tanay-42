@@ -7,7 +7,7 @@
 ## About Me
 
 - Currently working on data structures and algorithms,
-- building practical solutions 💡, and learning new things along the way 🚀
+- Building practical solutions 💡, and learning new things along the way 🚀
 - Focused on making progress and staying curious.
 - 📩 Reach out: tanayverma42004@gmail.com
 
@@ -30,16 +30,14 @@
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,mysql,git,github,vercel,vscode,notion,jupyter,pytorch,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,git,github,vercel,vscode,notion" />
 </p>
 
-
----
 
 ## Most Used Languages 📊
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-42&layout=compact&theme=github_dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="Most Used Languages"/>
 </p>
----
+
 
