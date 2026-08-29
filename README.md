@@ -28,16 +28,6 @@
 </p>
 
 ## Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,git,github,vercel,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,git,github,vercel,vscode,linux,bash,plsql" />
 </p>
-
-
-## Most Used Languages 📊
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-42&layout=compact&theme=github_dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="Most Used Languages"/>
-</p>
-
-
